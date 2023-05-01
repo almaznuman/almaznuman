@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Almaz
-- 👀 I’m interested in AI, Devops and Moible UI development
+- 👀 I’m interested in AI, Dev-Ops and Moible UI development
 - 🌱 I’m currently learning R, Flutter
 - 📫 How to reach me : Email- numanalmaz1@gmail.com | Linkedin- https://www.linkedin.com/in/almaz-numan-4baa5a225/
 
