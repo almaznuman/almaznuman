@@ -12,3 +12,5 @@
   Energy Consumption Forecasting - Forecasting Energy consumption levels for the next day using Neural Networks and Auto-Regression
   
   Image Steganography for the Sri-Lankan Military - A mobile app that incorporates steganography techniques to hide/encrypt data behind an image, allowing for secret communication to take place
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1zTz1gZhMGRAAI0MezjQ8q?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
