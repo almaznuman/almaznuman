@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **R and Flutter**
 
-- 📫 How to reach me **numanalmaz1@gmail.com | Linkedin- https://www.linkedin.com/in/almaz-numan-4baa5a225/**
+- 📫 How to reach me **numanalmaz1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
