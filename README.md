@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Almaz</h1>
+<h1 align="center">Hi, I'm Almaz👋</h1>
 <h3 align="center">I’m interested in AI, Dev-Ops and Moible UI development</h3>
 
-- 🌱 I’m currently learning **R, Flutter**
+- 🌱 I’m currently learning **R and Flutter**
 
 - 📫 How to reach me **numanalmaz1@gmail.com | Linkedin- https://www.linkedin.com/in/almaz-numan-4baa5a225/**
 
