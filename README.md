@@ -2,6 +2,7 @@
 <h3 align="center">I’m interested in AI, Dev-Ops and Moible UI development</h3>
 
 - 📫 How to reach me **numanalmaz1@gmail.com**
+- 📕 Currently Learning Angular
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
