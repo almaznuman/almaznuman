@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Almaz👋</h1>
-<h3 align="center">I’m interested in AI, Dev-Ops and Moible UI development</h3>
+<h3 align="center">I’m interested in AI, Cyber Security and Moible UI development</h3>
 
 - 📫 How to reach me **numanalmaz1@gmail.com**
 - 📕 Currently Learning Angular
