@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **numanalmaz1@gmail.com**
 - 📕 Currently Learning Angular, Springboot
-- 📜 Currently working towards a Certification in CompTIA Security+: SYO-601
+- 📜 Currently working towards a Certification in CompTIA Security+: SY0-601
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
