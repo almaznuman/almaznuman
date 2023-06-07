@@ -2,7 +2,8 @@
 <h3 align="center">I’m interested in AI, Cyber Security and Moible UI development</h3>
 
 - 📫 How to reach me **numanalmaz1@gmail.com**
-- 📕 Currently Learning Angular and Springboot
+- 📕 Currently Learning Angular, Springboot
+- 📜 Currently working towards a Certification in CompTIA Security+: Enhancing digital defense skills for protection.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
