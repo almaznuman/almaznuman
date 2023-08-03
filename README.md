@@ -2,7 +2,7 @@
 <h3 align="center">I’m really into AI, Cyber Security and Moible UI Development</h3>
 
 - 📫 How to reach me **numanalmaz1@gmail.com**
-- 📕 Currently Learning Angular, Springboot and working towards a Certification in CompTIA Security+: SY0-601
+- 📕 Currently Learning Springboot and working towards a Certification in CompTIA Security+: SY0-601
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
