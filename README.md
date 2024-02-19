@@ -1,10 +1,11 @@
+<script src="https://tryhackme.com/badge/2680156"></script>
+
 <h1 align="center">Hi, I'm Almaz👋</h1>
 <h3 align="center">I’m really into AI, Cyber Security and Moible UI Development</h3>
 
 - 📫 How to reach me **numanalmaz1@gmail.com**
 - 📕 Currently Learning Springboot and working towards a Certification in CompTIA Security+: SY0-601
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/miracleofchildbirth.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
