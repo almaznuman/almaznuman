@@ -1,5 +1,3 @@
-<script src="https://tryhackme.com/badge/2680156"></script>
-
 <h1 align="center">Hi, I'm Almaz👋</h1>
 <h3 align="center">I’m really into AI, Cyber Security and Moible UI Development</h3>
 
