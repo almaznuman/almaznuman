@@ -4,7 +4,7 @@
 - 📫 How to reach me **numanalmaz1@gmail.com**
 - 📕 Currently Learning Springboot and working towards a Certification in CompTIA Security+: SY0-601
 
-<script src="https://tryhackme.com/badge/2680156"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/miracleofchildbirth.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
