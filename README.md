@@ -4,6 +4,8 @@
 - 📫 How to reach me **numanalmaz1@gmail.com**
 - 📕 Currently Learning Springboot and working towards a Certification in CompTIA Security+: SY0-601
 
+- <script src="https://tryhackme.com/badge/2680156"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/almaznuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="almaznuman" height="30" width="40" /></a>
